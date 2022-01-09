@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# BLOG APP
+
+This a blog app created using NextJS and Supabase. 
+https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/
 
 ## Getting Started
 
